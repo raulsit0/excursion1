@@ -1,0 +1,34 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.copy{
+    margin-top: 50px;
+    text-align: right;
+    color: gray;
+}
+.phone{
+    margin-top: 20px;
+}
+.end{
+    font-size: 40px;
+    font-weight: normal;
+}
+.highlight {
+    color: aquamarine;
+    font-size: 20px;
+    text-decoration: underline;
+}
+h1{
+    font-size: 50px;
+    font-weight: normal;
+}
+h2 {
+    font-size: 42px;
+}
+p {
+    font-size: 21px;
+    color: gray;
+}
